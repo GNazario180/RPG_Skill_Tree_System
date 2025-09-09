@@ -59,7 +59,7 @@ unlocking skills and upgrading skills using Skill points, Tier level up and allo
 
 * Make skills actually do something instead of just printing descriptions.
 * Add classes such as, mage, warrior, cleric, etc.
-* Add class specific skills, the have extra requirements to unlock.
+* Add class specific skills, that have extra requirements to unlock.
 
 
 
