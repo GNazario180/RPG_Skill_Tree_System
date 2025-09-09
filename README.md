@@ -35,7 +35,7 @@ practices with clean constructive comments.
 
 
 
-This is not an interactive command-line or GUI app. It is a code demonstration that runs from a structured main() method.
+This is not an interactive command-line or GUI app. It is a code demonstration that runs from a structured main.js file.
 
 
 
